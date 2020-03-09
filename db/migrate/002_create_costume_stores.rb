@@ -6,7 +6,7 @@ def change
     t.string :name
     t.string :location
     t.integer :costume_inventory
-    t.integer :employees_count
+    t.integer :num_of_inventory
     t.boolean :still_in_business
     t.datetime :opening_time
     t.datetime :closing_time
